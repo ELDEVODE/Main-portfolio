@@ -38,7 +38,9 @@ function Hero() {
               layout
               className="btn mt-5 w-full h-1 lg:w-48 md:w-96 sm:w-96 hover:btn-secondary"
             >
-              Resume
+              <a href="https://drive.google.com/file/d/1cU0vTt7KkxBbMyNl4-7LXYkRp2ljUcAu/view?usp=sharing">
+                Resume
+              </a>
             </motion.button>
           </div>
           <motion.img
