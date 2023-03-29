@@ -1,24 +1,6 @@
 export const projects = [
   {
     id: 1,
-    title: "Aplle Watch Landing Page",
-    category: "Landing Pages",
-    image: "/img/apimg.jpeg",
-    liveSite: "https://applewatchess.netlify.app/",
-    githubRepo: "https://github.com/ELDEVODE/Apple-Watch",
-    description: "Landing Page concept Site for apple watches ",
-  },
-  {
-    id: 2,
-    title: "Winter Collecion Landing Page",
-    category: "Landing Pages",
-    image: "/img/winimg.png",
-    liveSite: "https://wincol.netlify.app/",
-    githubRepo: "https://github.com/ELDEVODE/project1",
-    description: "Winter Collection Landing page",
-  },
-  {
-    id: 3,
     title: "Airpods Landing Page",
     category: "Landing Pages",
     image: "/img/podsimg.png",
@@ -27,7 +9,7 @@ export const projects = [
     description: "Landing page concept design for Airpods",
   },
   {
-    id: 4,
+    id: 2,
     title: "Coffee Landing Page",
     category: "Landing Pages",
     image: "img/coffeimg.png",
@@ -36,16 +18,7 @@ export const projects = [
     description: "Landing page concept design for Coffee business",
   },
   {
-    id: 5,
-    title: "Payzillu Landing Page",
-    category: "Landing Pages",
-    image: "img/payzillu.png",
-    liveSite: "https://payzilllu.netlify.app/",
-    githubRepo: "https://github.com/ELDEVODE/Business-site",
-    description: "Landing page concept design for a business",
-  },
-  {
-    id: 6,
+    id: 3,
     title: "Github User Finder",
     category: "Web App",
     image: "img/gsrch.png",
@@ -54,7 +27,7 @@ export const projects = [
     description: "App to search Github users and display their info",
   },
   {
-    id: 7,
+    id: 4,
     title: "Feedback App",
     category: "Web App",
     image: "img/fback.png",
@@ -62,5 +35,35 @@ export const projects = [
     githubRepo: "https://github.com/ELDEVODE/Feedback-app",
     description: "An application to give recieve feedback from the user",
   },
+  {
+    id: 5,
+    title: "Winter Collecion Landing Page",
+    category: "Landing Pages",
+    image: "/img/winimg.png",
+    liveSite: "https://wincol.netlify.app/",
+    githubRepo: "https://github.com/ELDEVODE/project1",
+    description: "Winter Collection Landing page",
+  },
+
+  {
+    id: 6,
+    title: "Aplle Watch Landing Page",
+    category: "Landing Pages",
+    image: "/img/apimg.jpeg",
+    liveSite: "https://applewatchess.netlify.app/",
+    githubRepo: "https://github.com/ELDEVODE/Apple-Watch",
+    description: "Landing Page concept Site for apple watches ",
+  },
+
+  {
+    id: 7,
+    title: "Payzillu Landing Page",
+    category: "Landing Pages",
+    image: "img/payzillu.png",
+    liveSite: "https://payzilllu.netlify.app/",
+    githubRepo: "https://github.com/ELDEVODE/Business-site",
+    description: "Landing page concept design for a business",
+  },
+
   // ...
 ];
