@@ -60,7 +60,7 @@ function Hero() {
             <motion.a
               whileHover={{ scale: 1.1 }}
               whileTap={{ scale: 0.9 }}
-              href="#"
+              href="https://github.com/ELDEVODE"
               className="flex justify-center items-center text-2xl w-12 h-12 rounded-full transition-all duration-300  ease-in-out hover:bg-neutral my-4 mx-2 "
             >
               <FaGithub />
@@ -68,7 +68,7 @@ function Hero() {
             <motion.a
               whileHover={{ scale: 1.1 }}
               whileTap={{ scale: 0.9 }}
-              href="#"
+              href="https://twitter.com/Eldevode_"
               className="flex justify-center items-center text-2xl w-12 h-12 rounded-full transition-all duration-300 ease-in-out hover:bg-neutral my-4 mx-2"
             >
               <FaTwitter />
@@ -76,7 +76,7 @@ function Hero() {
             <motion.a
               whileHover={{ scale: 1.1 }}
               whileTap={{ scale: 0.9 }}
-              href="#"
+              href="https://www.instagram.com/eldevode/"
               className="flex justify-center items-center text-2xl w-12 h-12 rounded-full transition-all duration-300 ease-in-out hover:bg-neutral my-4 mx-2"
             >
               <FaInstagram />
