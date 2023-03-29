@@ -56,7 +56,7 @@ function Hero() {
           animate={{ opacity: 1 }}
           transition={{ delay: 2, duration: 4 }}
         >
-          <div className="fixed text-primary-focus top-4 right-4 mt-16 transform -translate-y-1/2 transition-all duration-300 ease-in-out flex flex-row icons">
+          <div className=" absolute text-primary-focus top-4 right-4 mt-16 transform -translate-y-1/2 transition-all duration-300 ease-in-out flex flex-row icons">
             <motion.a
               whileHover={{ scale: 1.1 }}
               whileTap={{ scale: 0.9 }}

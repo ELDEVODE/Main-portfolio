@@ -29,7 +29,7 @@ function About() {
             >
               About Me
             </motion.h1>
-            <p className="lg:text-2xl md:text-xl text-sm font-light text-primary herot2">
+            <p className="lg:text-2xl md:text-xl text-lg font-light text-primary herot2">
               I am a passionate 💻frontend developer with 2 years of experience
               in HTML, 🎨CSS, ⚛️JavaScript, and React. I love creating
               responsive designs, optimizing websites, and adding cool

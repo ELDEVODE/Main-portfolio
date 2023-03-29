@@ -67,7 +67,7 @@ const Portfolio = () => {
             </button>
           ))}
         </div>
-        <div className="grid grid-cols-3 gap-4 mt-4">
+        <div className="grid lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-2 gap-4">
           {filteredProjects.map((project) => (
             <motion.div
               key={project.id}

@@ -6,10 +6,10 @@ const Footer = () => {
   return (
     <footer
       id="Contact"
-      className="footer mt-20 p-10 bg-neutral text-neutral-content"
+      className="footer mt-20 p-10 bg-neutral text-neutral-content justify-center"
     >
       <div>
-        <span className="footer-title">Contact Me</span>
+        <span className="footer-title flex ml-20 text-center">Contact Me</span>
         <div className="grid grid-flow-col gap-4 justify-center">
           <div className="flex flex-col justify-center mx-4">
             <a

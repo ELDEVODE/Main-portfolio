@@ -28,7 +28,7 @@ const SkillsList = () => {
         initial="initial"
         animate="animate"
       >
-        <IconContext.Provider value={{ size: "4em" }}>
+        <IconContext.Provider value={{ size: "3em" }}>
           {skills.map((skill) => (
             <motion.div
               key={skill.name}

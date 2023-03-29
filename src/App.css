@@ -84,7 +84,6 @@ body {
 }
 
 .flo2ating-icons {
-  position: fixed;
   top: 70%;
   left: 20px;
   transform: translateY(-50%);
