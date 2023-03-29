@@ -5,7 +5,7 @@ import { GiSpaceSuit } from "react-icons/gi";
 const Footer = () => {
   return (
     <footer
-      id="#Contact"
+      id="Contact"
       className="footer mt-20 p-10 bg-neutral text-neutral-content"
     >
       <div>
