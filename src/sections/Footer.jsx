@@ -31,7 +31,7 @@ const Footer = () => {
           </div>
           <div className="flex flex-col justify-center mx-4">
             <a
-              href="tel:1234567890"
+              href="tel:+2348117292451"
               className="text-secondary-focus hover:underline text-center"
             >
               <MdCall className="text-4xl text-center" />
