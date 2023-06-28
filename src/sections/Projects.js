@@ -1,6 +1,6 @@
 export const projects = [
   {
-    id: 8,
+    id: 1,
     title: "Uppergates Ecommerce website ",
     category: "Web App",
     image: "img/upper.png",
@@ -10,7 +10,7 @@ export const projects = [
   }
   ,
   {
-    id: 1,
+    id: 2,
     title: "Airpods Landing Page",
     category: "Landing Pages",
     image: "/img/podsimg.png",
@@ -19,7 +19,7 @@ export const projects = [
     description: "Landing page concept design for Airpods",
   },
   {
-    id: 2,
+    id: 3,
     title: "Coffee Landing Page",
     category: "Landing Pages",
     image: "img/coffeimg.png",
@@ -28,7 +28,7 @@ export const projects = [
     description: "Landing page concept design for Coffee business",
   },
   {
-    id: 3,
+    id: 4,
     title: "Github User Finder",
     category: "Web App",
     image: "img/gsrch.png",
@@ -37,7 +37,7 @@ export const projects = [
     description: "App to search Github users and display their info",
   },
   {
-    id: 4,
+    id: 5,
     title: "Feedback App",
     category: "Web App",
     image: "img/fback.png",
@@ -46,7 +46,7 @@ export const projects = [
     description: "An application to give recieve feedback from the user",
   },
   {
-    id: 5,
+    id: 6,
     title: "Winter Collecion Landing Page",
     category: "Landing Pages",
     image: "/img/winimg.png",
@@ -56,7 +56,7 @@ export const projects = [
   },
 
   {
-    id: 6,
+    id: 7,
     title: "Aplle Watch Landing Page",
     category: "Landing Pages",
     image: "/img/apimg.jpeg",
@@ -66,7 +66,7 @@ export const projects = [
   },
 
   {
-    id: 7,
+    id: 8,
     title: "Payzillu Landing Page",
     category: "Landing Pages",
     image: "img/payzillu.png",
@@ -74,15 +74,6 @@ export const projects = [
     githubRepo: "https://github.com/ELDEVODE/Business-site",
     description: "Landing page concept design for a business",
   },
-  {
-    id: 8,
-    title: "Uppergates Ecommerce website ",
-    category: "Web App",
-    image: "img/upper.png",
-    liveSite: "https://uppergatess.com",
-    githubRepo: "#",
-    description: "Ecommerce website for Uppergates",
-  }
 
   // ...
 ];
