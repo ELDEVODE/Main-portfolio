@@ -1,5 +1,15 @@
 export const projects = [
   {
+    id: 8,
+    title: "Uppergates Ecommerce website ",
+    category: "Web App",
+    image: "img/upper.png",
+    liveSite: "https://uppergatess.com",
+    githubRepo: "#",
+    description: "Ecommerce website for Uppergates",
+  }
+  ,
+  {
     id: 1,
     title: "Airpods Landing Page",
     category: "Landing Pages",
@@ -64,6 +74,15 @@ export const projects = [
     githubRepo: "https://github.com/ELDEVODE/Business-site",
     description: "Landing page concept design for a business",
   },
+  {
+    id: 8,
+    title: "Uppergates Ecommerce website ",
+    category: "Web App",
+    image: "img/upper.png",
+    liveSite: "https://uppergatess.com",
+    githubRepo: "#",
+    description: "Ecommerce website for Uppergates",
+  }
 
   // ...
 ];

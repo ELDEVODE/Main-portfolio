@@ -12,6 +12,7 @@ import { BsGit } from "react-icons/bs";
 import {
   SiTailwindcss,
   SiJavascript,
+  SiTypescript,
   SiStyledcomponents,
   SiFirebase,
 } from "react-icons/si";
@@ -47,6 +48,11 @@ export const skills = [
     name: "Javascript",
     icon: SiJavascript,
     experience: "Experience with Javascript",
+  },
+  {
+    name: "Typescript",
+    icon: SiTypescript,
+    experience: "Experience with Typescript",
   },
   {
     name: "Python",
