@@ -17,7 +17,7 @@ function About() {
             animate={{ x: [0, -5, 5, -5, 5, 0] }}
             transition={{ delay: 3, duration: 2 }}
             className=" w-52 lg:w-64 md:w-56 sm:w-52 sm:opacity-100 rounded-full mb-20"
-            src="/t.png"
+            src="/pflj.jpeg"
             alt=""
           />
           <div className="mb-20 mx-8 ">
