@@ -30,7 +30,7 @@ function About() {
               About Me
             </motion.h1>
             <p className="lg:text-2xl md:text-xl text-lg font-light text-primary herot2">
-              I am a passionate 💻frontend developer with 4 years of experience
+              I am a passionate 💻frontend developer with 2 years of experience
               in HTML, 🎨CSS, ⚛️JavaScript, and React. I love creating
               responsive designs, optimizing websites, and adding cool
               🌟animations to enhance the user experience. I prioritize my
