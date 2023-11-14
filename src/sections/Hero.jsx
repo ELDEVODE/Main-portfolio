@@ -30,7 +30,7 @@ function Hero() {
               beautiful and user-friendly websites. <br /> Check out my work and
               let's collaborate!
             </p>
-            <a href="https://drive.google.com/file/d/1ivapkPar8oMAwruZDzpk20UUEEwgG7oe/view?usp=sharing">
+            <a href="https://drive.google.com/file/d/1grFZNF8_AyApTVoSW0VUnMlJ4DMb85zR/view?usp=sharing">
               <motion.button
                 animate={{
                   x: [-10, 10, -10, 10, 0],

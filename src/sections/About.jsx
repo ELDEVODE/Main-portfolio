@@ -30,8 +30,8 @@ function About() {
               About Me
             </motion.h1>
             <p className="lg:text-2xl md:text-xl text-lg font-light text-primary herot2">
-              I am a passionate Fullstack developer with 4 years of experience
-              in HTML, 🎨CSS, ⚛️JavaScript,Node, Express and React. I love creating
+              I am a passionate 💻frontend developer with 4 years of experience
+              in HTML, 🎨CSS, ⚛️JavaScript, and React. I love creating
               responsive designs, optimizing websites, and adding cool
               🌟animations to enhance the user experience. I prioritize my
               clients' needs, stay up-to-date with the latest trends in the
