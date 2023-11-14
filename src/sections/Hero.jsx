@@ -26,7 +26,7 @@ function Hero() {
               Hi, I am El-Praise
             </motion.h1>
             <p className="lg:text-2xl md:text-xl text-sm font-light text-primary herot2">
-              I'm a frontend developer with a passion <br /> for designing
+              I'm a Fullstack developer with a passion <br /> for creating
               beautiful and user-friendly websites. <br /> Check out my work and
               let's collaborate!
             </p>

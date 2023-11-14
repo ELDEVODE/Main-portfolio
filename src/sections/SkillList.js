@@ -16,6 +16,7 @@ import {
   SiStyledcomponents,
   SiFirebase,
 } from "react-icons/si";
+import { LiaNode } from "react-icons/lia";
 import { DiCss3 } from "react-icons/di";
 
 export const skills = [
@@ -58,6 +59,11 @@ export const skills = [
     name: "Python",
     icon: FaPython,
     experience: "Experience with Python",
+  },
+  {
+    name: "NodeJS",
+    icon: LiaNode,
+    experience: "Experience with NodeJS",
   },
   {
     name: "React",
