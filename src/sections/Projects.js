@@ -1,14 +1,13 @@
 export const projects = [
   {
     id: 1,
-    title: "Uppergates Ecommerce website ",
+    title: "Buzzy Ecommerce website ",
     category: "Web App",
-    image: "img/upper.png",
-    liveSite: "https://uppergatess.com",
+    image: "img/buzz.png",
+    liveSite: "https://buzzy.ng",
     githubRepo: "#",
-    description: "Ecommerce website for Uppergates",
-  }
-  ,
+    description: "Ecommerce tasks to earn platform",
+  },
   {
     id: 2,
     title: "Airpods Landing Page",

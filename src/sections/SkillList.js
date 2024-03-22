@@ -15,9 +15,12 @@ import {
   SiTypescript,
   SiStyledcomponents,
   SiFirebase,
+  SiMongodb,
+  SiVuedotjs,
 } from "react-icons/si";
-import { LiaNode } from "react-icons/lia";
+import { DiNodejs } from "react-icons/di";
 import { DiCss3 } from "react-icons/di";
+import { TbBrandNextjs } from "react-icons/tb";
 
 export const skills = [
   {
@@ -56,20 +59,36 @@ export const skills = [
     experience: "Experience with Typescript",
   },
   {
+    name: "React",
+    icon: FaReact,
+    experience: "Experience with React",
+  },
+  {
+    name: "NextJS",
+    icon: TbBrandNextjs,
+    experience: "Experience with NextJS",
+  },
+  {
+    name: "VueJS",
+    icon: SiVuedotjs,
+    experience: "Experience with Python",
+  },
+  {
     name: "Python",
     icon: FaPython,
     experience: "Experience with Python",
   },
   {
     name: "NodeJS",
-    icon: LiaNode,
+    icon: DiNodejs,
     experience: "Experience with NodeJS",
   },
   {
-    name: "React",
-    icon: FaReact,
-    experience: "Experience with React",
+    name: "MongoDB",
+    icon: SiMongodb,
+    experience: "Experience with MongoDB",
   },
+
   {
     name: "Styled Components",
     icon: SiStyledcomponents,
